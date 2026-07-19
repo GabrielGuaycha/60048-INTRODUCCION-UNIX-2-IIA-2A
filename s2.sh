@@ -16,3 +16,4 @@ cd .
 cd . . 
 # ese tomando nos guia a la carpeta que elegimos en el comando y nos indica todas las carpetas incluyendo ocultas
 ls -a /Users/gabriel/Documents/GitHub/60048-INTRODUCCION-UNIX-2-IIA-2A/Carpeta/carpeta_hija
+gcc -- version
